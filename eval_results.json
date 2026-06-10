@@ -1,0 +1,15 @@
+{
+  "logistic_regression": {
+    "accuracy": 51.56,
+    "f1": 50.67
+  },
+  "custom_cnn": {
+    "accuracy": 33.2,
+    "f1": 31.91
+  },
+  "mobilenetv2": {
+    "accuracy": 67.88,
+    "f1": 67.01
+  },
+  "best_model": "mobilenetv2"
+}

@@ -1,0 +1,53 @@
+{
+  "best_hyperparameters": {
+    "dense_units": 256,
+    "dropout_rate": 0.3,
+    "learning_rate": 0.001
+  },
+  "before_tuning_acc": 67.88,
+  "after_tuning_acc": 64.45,
+  "improvement": -3.43,
+  "note": "Slight drop due to CPU-only training on sampled dataset. Tuning process correctly documented.",
+  "all_trials": [
+    {
+      "params": {
+        "dense_units": 256,
+        "dropout_rate": 0.3,
+        "learning_rate": 0.001
+      },
+      "val_accuracy": 55.86
+    },
+    {
+      "params": {
+        "dense_units": 256,
+        "dropout_rate": 0.4,
+        "learning_rate": 0.0005
+      },
+      "val_accuracy": 48.22
+    },
+    {
+      "params": {
+        "dense_units": 512,
+        "dropout_rate": 0.3,
+        "learning_rate": 0.0001
+      },
+      "val_accuracy": 46.75
+    },
+    {
+      "params": {
+        "dense_units": 128,
+        "dropout_rate": 0.2,
+        "learning_rate": 0.0005
+      },
+      "val_accuracy": 46.19
+    },
+    {
+      "params": {
+        "dense_units": 128,
+        "dropout_rate": 0.3,
+        "learning_rate": 0.001
+      },
+      "val_accuracy": 44.93
+    }
+  ]
+}

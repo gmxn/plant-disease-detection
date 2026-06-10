@@ -1,0 +1,39 @@
+class,count,crop,disease,is_healthy
+Orange___Haunglongbing_(Citrus_greening),5507,Orange,Haunglongbing (Citrus greening),False
+Tomato___Tomato_Yellow_Leaf_Curl_Virus,5357,Tomato,Tomato Yellow Leaf Curl Virus,False
+Soybean___healthy,5090,Soybean,healthy,True
+Peach___Bacterial_spot,2297,Peach,Bacterial spot,False
+Tomato___Bacterial_spot,2127,Tomato,Bacterial spot,False
+Tomato___Late_blight,1908,Tomato,Late blight,False
+Squash___Powdery_mildew,1835,Squash,Powdery mildew,False
+Tomato___Septoria_leaf_spot,1771,Tomato,Septoria leaf spot,False
+Tomato___Spider_mites Two-spotted_spider_mite,1676,Tomato,Spider mites Two-spotted spider mite,False
+Apple___healthy,1645,Apple,healthy,True
+Tomato___healthy,1591,Tomato,healthy,True
+Blueberry___healthy,1502,Blueberry,healthy,True
+"Pepper,_bell___healthy",1477,"Pepper, bell",healthy,True
+Tomato___Target_Spot,1404,Tomato,Target Spot,False
+Grape___Esca_(Black_Measles),1383,Grape,Esca (Black Measles),False
+Corn_(maize)___Common_rust_,1192,Corn (maize),Common rust,False
+Grape___Black_rot,1180,Grape,Black rot,False
+Corn_(maize)___healthy,1162,Corn (maize),healthy,True
+Strawberry___Leaf_scorch,1109,Strawberry,Leaf scorch,False
+Grape___Leaf_blight_(Isariopsis_Leaf_Spot),1076,Grape,Leaf blight (Isariopsis Leaf Spot),False
+Cherry_(including_sour)___Powdery_mildew,1052,Cherry (including sour),Powdery mildew,False
+Potato___Late_blight,1000,Potato,Late blight,False
+Potato___Early_blight,1000,Potato,Early blight,False
+Tomato___Early_blight,1000,Tomato,Early blight,False
+"Pepper,_bell___Bacterial_spot",997,"Pepper, bell",Bacterial spot,False
+Corn_(maize)___Northern_Leaf_Blight,985,Corn (maize),Northern Leaf Blight,False
+Tomato___Leaf_Mold,952,Tomato,Leaf Mold,False
+Cherry_(including_sour)___healthy,854,Cherry (including sour),healthy,True
+Apple___Apple_scab,630,Apple,Apple scab,False
+Apple___Black_rot,621,Apple,Black rot,False
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,513,Corn (maize),Cercospora leaf spot Gray leaf spot,False
+Strawberry___healthy,456,Strawberry,healthy,True
+Grape___healthy,423,Grape,healthy,True
+Tomato___Tomato_mosaic_virus,373,Tomato,Tomato mosaic virus,False
+Raspberry___healthy,371,Raspberry,healthy,True
+Peach___healthy,360,Peach,healthy,True
+Apple___Cedar_apple_rust,275,Apple,Cedar apple rust,False
+Potato___healthy,152,Potato,healthy,True
